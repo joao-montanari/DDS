@@ -174,18 +174,48 @@
       "id": 3,
       "theme": "Trabalho em Risco: o que observar?",
       "information": {
-        "intro": "",
+        "intro": "Nem sempre os perigos são visíveis ou óbvios. Situações que parecem normais podem esconder riscos sérios. Reconhecer e corrigir essas condições é essencial para evitar acidentes e garantir a segurança de todos.",
         "topics": [
           {
-            "title": "",
+            "title": "O que são riscos no ambiente de trabalho?",
             "list": [
-              ""
+              "Físicos: máquinas sem proteção, fiação exposta, pisos escorregadios",
+              "Ergonômicos: posturas inadequadas, esforço repetitivo, mobiliário ruim",
+              "Comportamentais: não seguir normas de segurança ou agir por impulso",
+              "Ambientais: barulho excessivo, calor, produtos tóxicos, má iluminação"
+            ]
+          },
+          {
+            "title": "Por que identificar riscos é tão importante?",
+            "list": [
+              "Evita acidentes e doenças ocupacionais",
+              "Permite agir antes que algo grave aconteça",
+              "Reduz custos com afastamentos e multas",
+              "Cumpre as exigências legais das NRs"
+            ]
+          },
+          {
+            "title": "Como identificar situações de risco?",
+            "list": [
+              "Inspeções frequentes no local de trabalho",
+              "Diálogo com os trabalhadores, que conhecem a rotina",
+              "Checklists de segurança para garantir que nada passe despercebido",
+              "Análise de acidentes e quase acidentes",
+              "Estudo das atividades e dos riscos específicos de cada função"
+            ]
+          },
+          {
+            "title": "Depois de identificar, é hora de agir!",
+            "list": [
+              "Avalie os riscos mais frequentes e graves",
+              "Implemente melhorias: treinamentos, EPIs, sinalização, manutenção",
+              "Estimule a participação de todos na prevenção"
             ]
           }
         ],
-        "conclusion": ""
+        "conclusion": "Cada trabalhador deve estar atento e comunicar qualquer situação perigosa. Os líderes devem dar exemplo, apoiar ações preventivas e reforçar o compromisso com a segurança no dia a dia."
       },
-      "font": ""
+      "font": "https://ddstemas.com.br/trabalho-em-risco-o-que-observar/"
     },
     {
       "id": 4,
