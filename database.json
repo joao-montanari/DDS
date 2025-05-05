@@ -221,18 +221,55 @@
       "id": 4,
       "theme": "Direção defensiva para motoristas e operadores de veículos",
       "information": {
-        "intro": "",
+        "intro": "Acidentes de trânsito estão entre as principais causas de mortes no ambiente de trabalho. Dirigir com atenção e responsabilidade é essencial para proteger vidas, veículos e manter a produtividade.",
         "topics": [
           {
-            "title": "",
+            "title": "O que é direção defensiva?",
             "list": [
-              ""
+              "É dirigir com cautela, atenção e preparo, prevendo riscos e agindo corretamente mesmo diante de erros de outros motoristas ou em condições ruins de clima ou estrada. Vai além de obedecer às leis: é uma atitude preventiva."
+            ]
+          },
+          {
+            "title": "Importância da direção defensiva no trabalho:",
+            "list": [
+              "Reduz acidentes e lesões",
+              "Evita prejuízos com veículos e seguros",
+              "Previne afastamentos e processos trabalhistas",
+              "Garante um ambiente mais seguro e produtivo"
+            ]
+          },
+          {
+            "title": "Princípios da direção defensiva:",
+            "list": [
+              "Atenção total (nada de celular ou distrações)",
+              "Respeito às leis de trânsito",
+              "Manutenção do veículo em dia (freios, pneus, luzes, etc.)",
+              "Uso obrigatório do cinto de segurança",
+              "Distância segura entre veículos",
+              "Previsão de atitudes de outros motoristas"
+            ]
+          },
+          {
+            "title": "E em condições adversas?",
+            "list": [
+              "Reduza a velocidade",
+              "Ligue os faróis",
+              "Aumente a distância de segurança",
+              "Dirija com ainda mais cuidado"
+            ]
+          },
+          {
+            "title": "Cultura de prevenção também é responsabilidade da empresa:",
+            "list": [
+              "Oferecer treinamentos e campanhas de conscientização",
+              "Incentivar a manutenção dos veículos",
+              "Usar tecnologia a favor da segurança (GPS, sensores, limitadores)"
             ]
           }
         ],
-        "conclusion": ""
+        "conclusion": "Dirigir com responsabilidade é proteger a si mesmo, seus colegas e a empresa. Com atenção, preparo e atitude segura, todos voltam para casa em paz no fim do dia."
       },
-      "font": ""
+      "font": "https://ddstemas.com.br/direcao-defensiva-para-motoristas-e-operadores-de-veiculos/"
     },
     {
       "id": 5,
