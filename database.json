@@ -129,18 +129,46 @@
       "id": 2,
       "theme": "A Importância da Segurança do Trabalho na Proteção dos Trabalhadores",
       "information": {
-        "intro": "",
+        "intro": "A segurança do trabalho é um conjunto de práticas e normas voltadas à proteção da saúde e integridade física dos trabalhadores. Mais do que uma obrigação legal, é uma responsabilidade essencial das empresas que valorizam seus colaboradores.",
         "topics": [
           {
-            "title": "",
+            "title": "Por que ela é tão importante?",
             "list": [
-              ""
+              "Previne acidentes e doenças ocupacionais",
+              "Garante um ambiente de trabalho saudável e produtivo",
+              "Reduz afastamentos, custos com indenizações e prejuízos à empresa",
+              "Fortalece o bem-estar e a motivação dos trabalhadores"
+            ]
+          },
+          {
+            "title": "Normas Regulamentadoras (NRs):",
+            "list": [
+              "No Brasil, a segurança é guiada pelas NRs, que orientam desde o uso de EPIs até o controle de riscos específicos como agentes químicos, ruídos e postura. Segui-las é fundamental para manter a empresa dentro da lei e proteger os trabalhadores."
+            ]
+          },
+          {
+            "title": "Práticas de Prevenção que Funcionam:",
+            "list": [
+              "Uso correto de EPIs: luvas, capacetes, óculos, protetores, etc.",
+              "Treinamentos contínuos sobre riscos, procedimentos e comportamento seguro",
+              "Participação ativa dos colaboradores na construção da cultura de segurança",
+              "Liderança engajada que dá exemplo e incentiva o cumprimento das normas",
+              "Ambiente de diálogo: onde todos possam relatar riscos e sugerir melhorias"
+            ]
+          },
+          {
+            "title": "Benefícios para a empresa e os colaboradores:",
+            "list": [
+              "Redução de acidentes e afastamentos",
+              "Diminuição de custos com saúde e indenizações",
+              "Aumento da produtividade e da satisfação da equipe",
+              "Melhora do clima organizacional e da imagem da empresa no mercado"
             ]
           }
         ],
-        "conclusion": ""
+        "conclusion": "Segurança do trabalho não é só evitar multas ou cumprir normas. É investir na vida, saúde e bem-estar de todos. Com EPIs, treinamentos e uma cultura preventiva, o ambiente de trabalho se torna mais seguro, eficiente e humano."
       },
-      "font": ""
+      "font": "https://ddstemas.com.br/a-importancia-da-seguranca-do-trabalho-na-protecao-dos-trabalhadores/"
     },
     {
       "id": 3,
