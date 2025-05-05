@@ -6,53 +6,53 @@
       "information": {
         "intro": "O uso de produtos químicos faz parte da rotina de muitos trabalhadores em fábricas, hospitais, laboratórios e setores de limpeza. Apesar de comuns, essas substâncias representam riscos sérios se forem manuseadas de forma incorreta.",
         "topics": [
-            {
-                "title": "Principais riscos do uso incorreto:",
-                "list": [
-                    "Queimaduras na pele ou nos olhos",
-                    "Dificuldade respiratória por inalação de vapores",
-                    "Explosões ou incêndios",
-                    "Contaminações e intoxicações"
-                ]
-            },
-            {
-                "title": "Como manusear com segurança:",
-                "list": [
-                    "Usar os EPIs corretos (luvas, óculos, máscara, avental)",
-                    "Não misturar produtos sem orientação técnica",
-                    "Evitar contato com a pele, olhos e vias respiratórias",
-                    "Trabalhar em ambientes bem ventilados",
-                    "Conhecer a FISPQ de cada produto"
-                ]
-            },
-            {
-                "title": "Armazenamento seguro:",
-                "list": [
-                    "Separar produtos incompatíveis",
-                    "Manter em embalagens fechadas e rotuladas",
-                    "Armazenar longe de calor, alimentos e pessoas não autorizadas",
-                    "Colocar os mais pesados nas prateleiras mais baixas"
-                ]
-            },
-            {
-                "title": "Importância da informação e treinamento:",
-                "list": [
-                    "Sinalização adequada",
-                    "Treinamentos sobre riscos e EPIs",
-                    "Orientações para leitura da FISPQ",
-                    "Procedimentos de emergência bem definidos"
-                ]
-            },
-            {
-                "title": "Em caso de acidente:",
-                "list": [
-                    "Afastar pessoas do local",
-                    "Usar EPIs antes de prestar socorro",
-                    "Consultar a FISPQ",
-                    "Lavar a área atingida e buscar atendimento médico",
-                    "Investigar a causa para evitar recorrência"
-                ]
-            }
+          {
+            "title": "Principais riscos do uso incorreto:",
+            "list": [
+              "Queimaduras na pele ou nos olhos",
+              "Dificuldade respiratória por inalação de vapores",
+              "Explosões ou incêndios",
+              "Contaminações e intoxicações"
+            ]
+          },
+          {
+            "title": "Como manusear com segurança:",
+            "list": [
+              "Usar os EPIs corretos (luvas, óculos, máscara, avental)",
+              "Não misturar produtos sem orientação técnica",
+              "Evitar contato com a pele, olhos e vias respiratórias",
+              "Trabalhar em ambientes bem ventilados",
+              "Conhecer a FISPQ de cada produto"
+            ]
+          },
+          {
+            "title": "Armazenamento seguro:",
+            "list": [
+              "Separar produtos incompatíveis",
+              "Manter em embalagens fechadas e rotuladas",
+              "Armazenar longe de calor, alimentos e pessoas não autorizadas",
+              "Colocar os mais pesados nas prateleiras mais baixas"
+            ]
+          },
+          {
+            "title": "Importância da informação e treinamento:",
+            "list": [
+              "Sinalização adequada",
+              "Treinamentos sobre riscos e EPIs",
+              "Orientações para leitura da FISPQ",
+              "Procedimentos de emergência bem definidos"
+            ]
+          },
+          {
+            "title": "Em caso de acidente:",
+            "list": [
+              "Afastar pessoas do local",
+              "Usar EPIs antes de prestar socorro",
+              "Consultar a FISPQ",
+              "Lavar a área atingida e buscar atendimento médico",
+              "Investigar a causa para evitar recorrência"
+            ]
+          }
         ],
         "conclusion": "Segurança com produtos químicos não é exagero, é prevenção. Com conhecimento, cuidado e uso correto de EPIs, é possível evitar acidentes e proteger a saúde de todos."
       },
@@ -62,18 +62,68 @@
       "id": 1,
       "theme": "Como evitar os riscos do cansaço e estresse no trabalho",
       "information": {
-        "intro": "",
+        "intro": "Segurança no trabalho vai além do uso de EPIs e normas. Cansaço e estresse também são riscos que afetam a atenção, os reflexos e a saúde física e mental dos trabalhadores.",
         "topics": [
-            {
-                "title": "",
-                "list": [
-                    ""
-                ]
-            }
+          {
+            "title": "Por que são perigosos?",
+            "list": [
+              "Reduzem atenção e agilidade",
+              "Aumentam o risco de acidentes",
+              "Podem causar doenças como depressão, pressão alta e dores crônicas",
+              "Elevam os afastamentos e prejudicam o desempenho da equipe"
+            ]
+          },
+          {
+            "title": "Principais causas no ambiente de trabalho:",
+            "list": [
+              "Jornadas longas sem descanso",
+              "Pressão excessiva por metas",
+              "Falta de reconhecimento e apoio",
+              "Ambiente desorganizado",
+              "Acúmulo de funções sem preparo adequado"
+            ]
+          },
+          {
+            "title": "Riscos associados ao cansaço e estresse:",
+            "list": [
+              "Acidentes com máquinas e ferramentas",
+              "Erros em tarefas simples",
+              "Conflitos entre colegas",
+              "Queda de produtividade",
+              "Problemas de saúde física e emocional"
+            ]
+          },
+          {
+            "title": "Sinais de alerta:",
+            "list": [
+              "Mau humor, impaciência, cansaço constante",
+              "Sono durante o expediente",
+              "Baixo rendimento e desatenção",
+              "Reclamações de dores, insônia ou desânimo"
+            ]
+          },
+          {
+            "title": "O que fazer para prevenir:",
+            "list": [
+              "Respeitar pausas e horários de descanso",
+              "Planejar melhor as tarefas do dia",
+              "Oferecer apoio emocional aos colaboradores",
+              "Promover treinamentos sobre controle do estresse",
+              "Melhorar o ambiente físico de trabalho"
+            ]
+          },
+          {
+            "title": "Promovendo uma cultura de prevenção:",
+            "list": [
+              "Estimular o diálogo sobre saúde mental",
+              "Líderes devem dar o exemplo e valorizar o bem-estar",
+              "Criar um ambiente onde todos se sintam ouvidos e respeitados"
+            ]
+          }
         ],
-        "conclusion": ""
+        "conclusion": "Cansaço e estresse são inimigos silenciosos da segurança. Prevenir é essencial para manter um ambiente saudável, produtivo e seguro para todos."
       },
-      "font": ""
+      "font": "https://ddstemas.com.br/como-evitar-os-riscos-do-cansaco-e-estresse-no-trabalho/"
     },
     {
       "id": 2,
@@ -81,12 +131,12 @@
       "information": {
         "intro": "",
         "topics": [
-            {
-                "title": "",
-                "list": [
-                    ""
-                ]
-            }
+          {
+            "title": "",
+            "list": [
+              ""
+            ]
+          }
         ],
         "conclusion": ""
       },
@@ -98,12 +148,12 @@
       "information": {
         "intro": "",
         "topics": [
-            {
-                "title": "",
-                "list": [
-                    ""
-                ]
-            }
+          {
+            "title": "",
+            "list": [
+              ""
+            ]
+          }
         ],
         "conclusion": ""
       },
@@ -115,12 +165,12 @@
       "information": {
         "intro": "",
         "topics": [
-            {
-                "title": "",
-                "list": [
-                    ""
-                ]
-            }
+          {
+            "title": "",
+            "list": [
+              ""
+            ]
+          }
         ],
         "conclusion": ""
       },
@@ -132,12 +182,12 @@
       "information": {
         "intro": "",
         "topics": [
-            {
-                "title": "",
-                "list": [
-                    ""
-                ]
-            }
+          {
+            "title": "",
+            "list": [
+              ""
+            ]
+          }
         ],
         "conclusion": ""
       },
@@ -149,12 +199,12 @@
       "information": {
         "intro": "",
         "topics": [
-            {
-                "title": "",
-                "list": [
-                    ""
-                ]
-            }
+          {
+            "title": "",
+            "list": [
+              ""
+            ]
+          }
         ],
         "conclusion": ""
       },
@@ -166,12 +216,12 @@
       "information": {
         "intro": "",
         "topics": [
-            {
-                "title": "",
-                "list": [
-                    ""
-                ]
-            }
+          {
+            "title": "",
+            "list": [
+              ""
+            ]
+          }
         ],
         "conclusion": ""
       },
@@ -183,12 +233,12 @@
       "information": {
         "intro": "",
         "topics": [
-            {
-                "title": "",
-                "list": [
-                    ""
-                ]
-            }
+          {
+            "title": "",
+            "list": [
+              ""
+            ]
+          }
         ],
         "conclusion": ""
       },
@@ -200,12 +250,12 @@
       "information": {
         "intro": "",
         "topics": [
-            {
-                "title": "",
-                "list": [
-                    ""
-                ]
-            }
+          {
+            "title": "",
+            "list": [
+              ""
+            ]
+          }
         ],
         "conclusion": ""
       },
@@ -217,12 +267,12 @@
       "information": {
         "intro": "",
         "topics": [
-            {
-                "title": "",
-                "list": [
-                    ""
-                ]
-            }
+          {
+            "title": "",
+            "list": [
+              ""
+            ]
+          }
         ],
         "conclusion": ""
       },
@@ -234,12 +284,12 @@
       "information": {
         "intro": "",
         "topics": [
-            {
-                "title": "",
-                "list": [
-                    ""
-                ]
-            }
+          {
+            "title": "",
+            "list": [
+              ""
+            ]
+          }
         ],
         "conclusion": ""
       },
@@ -251,12 +301,12 @@
       "information": {
         "intro": "",
         "topics": [
-            {
-                "title": "",
-                "list": [
-                    ""
-                ]
-            }
+          {
+            "title": "",
+            "list": [
+              ""
+            ]
+          }
         ],
         "conclusion": ""
       },
@@ -268,12 +318,12 @@
       "information": {
         "intro": "",
         "topics": [
-            {
-                "title": "",
-                "list": [
-                    ""
-                ]
-            }
+          {
+            "title": "",
+            "list": [
+              ""
+            ]
+          }
         ],
         "conclusion": ""
       },
@@ -285,12 +335,12 @@
       "information": {
         "intro": "",
         "topics": [
-            {
-                "title": "",
-                "list": [
-                    ""
-                ]
-            }
+          {
+            "title": "",
+            "list": [
+              ""
+            ]
+          }
         ],
         "conclusion": ""
       },
@@ -302,12 +352,12 @@
       "information": {
         "intro": "",
         "topics": [
-            {
-                "title": "",
-                "list": [
-                    ""
-                ]
-            }
+          {
+            "title": "",
+            "list": [
+              ""
+            ]
+          }
         ],
         "conclusion": ""
       },
@@ -319,12 +369,12 @@
       "information": {
         "intro": "",
         "topics": [
-            {
-                "title": "",
-                "list": [
-                    ""
-                ]
-            }
+          {
+            "title": "",
+            "list": [
+              ""
+            ]
+          }
         ],
         "conclusion": ""
       },
@@ -336,12 +386,12 @@
       "information": {
         "intro": "",
         "topics": [
-            {
-                "title": "",
-                "list": [
-                    ""
-                ]
-            }
+          {
+            "title": "",
+            "list": [
+              ""
+            ]
+          }
         ],
         "conclusion": ""
       },
@@ -353,12 +403,12 @@
       "information": {
         "intro": "",
         "topics": [
-            {
-                "title": "",
-                "list": [
-                    ""
-                ]
-            }
+          {
+            "title": "",
+            "list": [
+              ""
+            ]
+          }
         ],
         "conclusion": ""
       },
@@ -370,12 +420,12 @@
       "information": {
         "intro": "",
         "topics": [
-            {
-                "title": "",
-                "list": [
-                    ""
-                ]
-            }
+          {
+            "title": "",
+            "list": [
+              ""
+            ]
+          }
         ],
         "conclusion": ""
       },
