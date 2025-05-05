@@ -1,0 +1,385 @@
+{
+  "themes": [
+    {
+      "id": 0,
+      "theme": "Como evitar acidentes e armazenar com segurança os Produtos Químicos",
+      "information": {
+        "intro": "O uso de produtos químicos faz parte da rotina de muitos trabalhadores em fábricas, hospitais, laboratórios e setores de limpeza. Apesar de comuns, essas substâncias representam riscos sérios se forem manuseadas de forma incorreta.",
+        "topics": [
+            {
+                "title": "Principais riscos do uso incorreto:",
+                "list": [
+                    "Queimaduras na pele ou nos olhos",
+                    "Dificuldade respiratória por inalação de vapores",
+                    "Explosões ou incêndios",
+                    "Contaminações e intoxicações"
+                ]
+            },
+            {
+                "title": "Como manusear com segurança:",
+                "list": [
+                    "Usar os EPIs corretos (luvas, óculos, máscara, avental)",
+                    "Não misturar produtos sem orientação técnica",
+                    "Evitar contato com a pele, olhos e vias respiratórias",
+                    "Trabalhar em ambientes bem ventilados",
+                    "Conhecer a FISPQ de cada produto"
+                ]
+            },
+            {
+                "title": "Armazenamento seguro:",
+                "list": [
+                    "Separar produtos incompatíveis",
+                    "Manter em embalagens fechadas e rotuladas",
+                    "Armazenar longe de calor, alimentos e pessoas não autorizadas",
+                    "Colocar os mais pesados nas prateleiras mais baixas"
+                ]
+            },
+            {
+                "title": "Importância da informação e treinamento:",
+                "list": [
+                    "Sinalização adequada",
+                    "Treinamentos sobre riscos e EPIs",
+                    "Orientações para leitura da FISPQ",
+                    "Procedimentos de emergência bem definidos"
+                ]
+            },
+            {
+                "title": "Em caso de acidente:",
+                "list": [
+                    "Afastar pessoas do local",
+                    "Usar EPIs antes de prestar socorro",
+                    "Consultar a FISPQ",
+                    "Lavar a área atingida e buscar atendimento médico",
+                    "Investigar a causa para evitar recorrência"
+                ]
+            }
+        ],
+        "conclusion": "Segurança com produtos químicos não é exagero, é prevenção. Com conhecimento, cuidado e uso correto de EPIs, é possível evitar acidentes e proteger a saúde de todos."
+      },
+      "font": "https://ddstemas.com.br/como-evitar-acidentes-e-armazenar-com-seguranca-os-produtos-quimicos/"
+    },
+    {
+      "id": 1,
+      "theme": "Como evitar os riscos do cansaço e estresse no trabalho",
+      "information": {
+        "intro": "",
+        "topics": [
+            {
+                "title": "",
+                "list": [
+                    ""
+                ]
+            }
+        ],
+        "conclusion": ""
+      },
+      "font": ""
+    },
+    {
+      "id": 2,
+      "theme": "A Importância da Segurança do Trabalho na Proteção dos Trabalhadores",
+      "information": {
+        "intro": "",
+        "topics": [
+            {
+                "title": "",
+                "list": [
+                    ""
+                ]
+            }
+        ],
+        "conclusion": ""
+      },
+      "font": ""
+    },
+    {
+      "id": 3,
+      "theme": "Trabalho em Risco: o que observar?",
+      "information": {
+        "intro": "",
+        "topics": [
+            {
+                "title": "",
+                "list": [
+                    ""
+                ]
+            }
+        ],
+        "conclusion": ""
+      },
+      "font": ""
+    },
+    {
+      "id": 4,
+      "theme": "Direção defensiva para motoristas e operadores de veículos",
+      "information": {
+        "intro": "",
+        "topics": [
+            {
+                "title": "",
+                "list": [
+                    ""
+                ]
+            }
+        ],
+        "conclusion": ""
+      },
+      "font": ""
+    },
+    {
+      "id": 5,
+      "theme": "Quais são os 3 maiores Vilões da Saúde Ocupacional e como se proteger deles?",
+      "information": {
+        "intro": "",
+        "topics": [
+            {
+                "title": "",
+                "list": [
+                    ""
+                ]
+            }
+        ],
+        "conclusion": ""
+      },
+      "font": ""
+    },
+    {
+      "id": 6,
+      "theme": "Primeiros Socorros - Como agir em emergências no trabalho?",
+      "information": {
+        "intro": "",
+        "topics": [
+            {
+                "title": "",
+                "list": [
+                    ""
+                ]
+            }
+        ],
+        "conclusion": ""
+      },
+      "font": ""
+    },
+    {
+      "id": 7,
+      "theme": "Higiene e Saúde no Trabalho - Cuidados Pessoais para Evitar Doenças",
+      "information": {
+        "intro": "",
+        "topics": [
+            {
+                "title": "",
+                "list": [
+                    ""
+                ]
+            }
+        ],
+        "conclusion": ""
+      },
+      "font": ""
+    },
+    {
+      "id": 8,
+      "theme": "Ergonomia - Cuidados com Postura e Movimentos Repetitivos",
+      "information": {
+        "intro": "",
+        "topics": [
+            {
+                "title": "",
+                "list": [
+                    ""
+                ]
+            }
+        ],
+        "conclusion": ""
+      },
+      "font": ""
+    },
+    {
+      "id": 9,
+      "theme": "Identificação e Avaliação de Riscos: A Base da Segurança no Trabalho",
+      "information": {
+        "intro": "",
+        "topics": [
+            {
+                "title": "",
+                "list": [
+                    ""
+                ]
+            }
+        ],
+        "conclusion": ""
+      },
+      "font": ""
+    },
+    {
+      "id": 10,
+      "theme": "A Importância da Reciclagem do Lixo: Promovendo um Futuro Sustentável",
+      "information": {
+        "intro": "",
+        "topics": [
+            {
+                "title": "",
+                "list": [
+                    ""
+                ]
+            }
+        ],
+        "conclusion": ""
+      },
+      "font": ""
+    },
+    {
+      "id": 11,
+      "theme": "Sustentabilidade: Desbravando o Caminho para um Futuro Mais Verde e Equilibrado",
+      "information": {
+        "intro": "",
+        "topics": [
+            {
+                "title": "",
+                "list": [
+                    ""
+                ]
+            }
+        ],
+        "conclusion": ""
+      },
+      "font": ""
+    },
+    {
+      "id": 12,
+      "theme": "Coleta Seletiva de Lixo: 11 Pontos Importantes da Preservação Ambiental",
+      "information": {
+        "intro": "",
+        "topics": [
+            {
+                "title": "",
+                "list": [
+                    ""
+                ]
+            }
+        ],
+        "conclusion": ""
+      },
+      "font": ""
+    },
+    {
+      "id": 13,
+      "theme": "Combate a Incêndio",
+      "information": {
+        "intro": "",
+        "topics": [
+            {
+                "title": "",
+                "list": [
+                    ""
+                ]
+            }
+        ],
+        "conclusion": ""
+      },
+      "font": ""
+    },
+    {
+      "id": 14,
+      "theme": "Dicas de Alimentação Saudável",
+      "information": {
+        "intro": "",
+        "topics": [
+            {
+                "title": "",
+                "list": [
+                    ""
+                ]
+            }
+        ],
+        "conclusion": ""
+      },
+      "font": ""
+    },
+    {
+      "id": 15,
+      "theme": "Dicas Importantes para Preservar o Meio Ambiente",
+      "information": {
+        "intro": "",
+        "topics": [
+            {
+                "title": "",
+                "list": [
+                    ""
+                ]
+            }
+        ],
+        "conclusion": ""
+      },
+      "font": ""
+    },
+    {
+      "id": 16,
+      "theme": "10 Pilares para Cuidar do Meio Ambiente em Casa",
+      "information": {
+        "intro": "",
+        "topics": [
+            {
+                "title": "",
+                "list": [
+                    ""
+                ]
+            }
+        ],
+        "conclusion": ""
+      },
+      "font": ""
+    },
+    {
+      "id": 17,
+      "theme": "O que é Alimentação Saudável?",
+      "information": {
+        "intro": "",
+        "topics": [
+            {
+                "title": "",
+                "list": [
+                    ""
+                ]
+            }
+        ],
+        "conclusion": ""
+      },
+      "font": ""
+    },
+    {
+      "id": 18,
+      "theme": "Proteção Auditiva",
+      "information": {
+        "intro": "",
+        "topics": [
+            {
+                "title": "",
+                "list": [
+                    ""
+                ]
+            }
+        ],
+        "conclusion": ""
+      },
+      "font": ""
+    },
+    {
+      "id": 19,
+      "theme": "Limpeza e Organização do Local de Trabalho",
+      "information": {
+        "intro": "",
+        "topics": [
+            {
+                "title": "",
+                "list": [
+                    ""
+                ]
+            }
+        ],
+        "conclusion": ""
+      },
+      "font": ""
+    }
+  ]
+}
