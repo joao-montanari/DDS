@@ -534,18 +534,53 @@
       "id": 10,
       "theme": "A Importância da Reciclagem do Lixo: Promovendo um Futuro Sustentável",
       "information": {
-        "intro": "",
+        "intro": "Reciclar é mais do que uma boa ação - é essencial para preservar o meio ambiente e garantir um futuro sustentável. Trata-se de transformar materiais descartados (papel, plástico, vidro, metal) em novos produtos, reduzindo a poluição e o desperdício.",
         "topics": [
           {
-            "title": "",
+            "title": "Benefícios da Reciclagem: Ambientais",
             "list": [
-              ""
+              "Menos lixo em aterros",
+              "Menos poluição do solo e da água",
+              "Preservação de recursos naturais"
+            ]
+          },
+          {
+            "title": "Benefícios da Reciclagem: Econômicos",
+            "list": [
+              "Geração de empregos na cadeia da reciclagem",
+              "Economia de recursos para empresas e consumidores",
+              "Incentivo ao consumo consciente"
+            ]
+          },
+          {
+            "title": "Desafios da Reciclagem",
+            "list": [
+              "Falta de infraestrutura adequada",
+              "Baixa conscientização da população",
+              "Dificuldade na separação correta dos resíduos"
+            ]
+          },
+          {
+            "title": "Como Reciclar Corretamente?",
+            "list": [
+              "Separe papel, plástico, vidro e metal",
+              "Evite materiais não recicláveis (ex: papel carbono, esponjas)",
+              "Reutilize objetos sempre que possível",
+              "Descarte corretamente e incentive colegas e familiares"
+            ]
+          },
+          {
+            "title": "Reciclagem: Responsabilidade de Todos",
+            "list": [
+              "Empresas e governos devem implementar ações e políticas sustentáveis",
+              "Cada pessoa deve fazer sua parte no dia a dia",
+              "Pequenas atitudes geram grandes mudanças"
             ]
           }
         ],
-        "conclusion": ""
+        "conclusion": "Reciclar é cuidar do presente e proteger o futuro. Com pequenas ações diárias, contribuímos para um planeta mais limpo, saudável e sustentável para as próximas gerações."
       },
-      "font": ""
+      "font": "https://ddstemas.com.br/a-importancia-da-reciclagem-do-lixo-promovendo-um-futuro-sustentavel/"
     },
     {
       "id": 11,
