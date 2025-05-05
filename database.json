@@ -321,18 +321,70 @@
       "id": 6,
       "theme": "Primeiros Socorros - Como agir em emergências no trabalho?",
       "information": {
-        "intro": "",
+        "intro": "Acidentes e emergências podem acontecer a qualquer momento no ambiente de trabalho. Saber agir rapidamente pode evitar complicações e até salvar vidas. Os primeiros socorros são os cuidados iniciais até a chegada da equipe médica.",
         "topics": [
           {
-            "title": "",
+            "title": "Vantagens dos Primeiros Socorros",
             "list": [
-              ""
+              "Reduzem o risco de agravamento",
+              "Aumentam as chances de recuperação",
+              "Diminuem afastamentos por saúde",
+              "Tornam o ambiente mais seguro"
+            ]
+          },
+          {
+            "title": "Como Agir: Desmaio",
+            "list": [
+              "Deite a pessoa em local arejado",
+              "Eleve as pernas",
+              "Afrouxe roupas apertadas",
+              "Se não acordar, chame ajuda médica"
+            ]
+          },
+          {
+            "title": "Como Agir: Cortes e Sangramentos",
+            "list": [
+              "Lave com água e sabão",
+              "Pressione com pano limpo",
+              "Se não parar, acione socorro"
+            ]
+          },
+          {
+            "title": "Como Agir: Queimaduras",
+            "list": [
+              "Lave com água fria por 10 minutos",
+              "Não estoure bolhas nem use pomadas",
+              "Cubra com pano limpo",
+              "Para casos graves, chame emergência"
+            ]
+          },
+          {
+            "title": "Como Agir: Engasgo",
+            "list": [
+              "Se a pessoa não consegue tossir/falar, faça a Manobra de Heimlich",
+              "Se desmaiar, inicie a reanimação e chame socorro"
+            ]
+          },
+          {
+            "title": "Como Agir: Convulsões",
+            "list": [
+              "Afastar objetos perigosos",
+              "Não segure a vítima nem coloque nada na boca",
+              "Após a crise, vire de lado e fique ao lado até melhorar",
+              "Procure atendimento médico"
+            ]
+          },
+          {
+            "title": "Como Agir: Parada Cardíaca",
+            "list": [
+              "Acione a emergência imediatamente",
+              "Inicie a massagem cardíaca: 1. Mãos no centro do peito; 2. Compressões rápidas e firmes; 3. Continue até o socorro chegar"
             ]
           }
         ],
-        "conclusion": ""
+        "conclusion": "Saber prestar primeiros socorros faz a diferença entre a vida e a morte. Em qualquer emergência, mantenha a calma e chame ajuda médica imediatamente."
       },
-      "font": ""
+      "font": "https://ddstemas.com.br/primeiros-socorros-como-agir-em-emergencias-no-trabalho/"
     },
     {
       "id": 7,
