@@ -638,18 +638,40 @@
       "id": 12,
       "theme": "Coleta Seletiva de Lixo: 11 Pontos Importantes da Preservação Ambiental",
       "information": {
-        "intro": "",
+        "intro": "O que é a Coleta Seletiva? É a separação dos resíduos em orgânicos e inorgânicos para facilitar o reaproveitamento e a reciclagem.",
         "topics": [
           {
-            "title": "",
+            "title": "Benefícios da Coleta Seletiva",
             "list": [
-              ""
+              "Reduz o volume de lixo nos aterros sanitários",
+              "Diminui a poluição do solo, água e ar",
+              "Protege a biodiversidade",
+              "Gera empregos e renda com a cadeia da reciclagem",
+              "Melhora a saúde pública e a qualidade de vida",
+              "Contribui para a construção de uma sociedade mais consciente"
+            ]
+          },
+          {
+            "title": "Desafios Enfrentados",
+            "list": [
+              "Falta de estrutura e coleta adequada",
+              "Pouca conscientização da população",
+              "Ausência de políticas públicas e incentivo governamental"
+            ]
+          },
+          {
+            "title": "Como Adotar a Coleta Seletiva",
+            "list": [
+              "Eduque-se e compartilhe conhecimento",
+              "Separe corretamente os resíduos (papel, plástico, vidro, metal e orgânicos)",
+              "Incentive colegas e familiares a participarem",
+              "Busque pontos de coleta ou cooperativas na região"
             ]
           }
         ],
-        "conclusion": ""
+        "conclusion": "A coleta seletiva não é só uma tarefa do governo, mas uma responsabilidade de todos nós. Cada atitude conta na construção de um futuro mais limpo, saudável e sustentável."
       },
-      "font": ""
+      "font": "https://ddstemas.com.br/coleta-seletiva-de-lixo-11-pontos-importantes-da-preservacao-ambiental/"
     },
     {
       "id": 13,
