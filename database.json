@@ -485,18 +485,50 @@
       "id": 9,
       "theme": "Identificação e Avaliação de Riscos: A Base da Segurança no Trabalho",
       "information": {
-        "intro": "",
+        "intro": "Riscos ocupacionais são situações no ambiente de trabalho que podem causar acidentes, doenças ou danos à saúde.",
         "topics": [
           {
-            "title": "",
+            "title": "O que pode ser um risco ocupacional:",
             "list": [
-              ""
+              "Físicos: ruído, calor, vibração",
+              "Químicos: poeiras, vapores, gases",
+              "Biológicos: vírus, bactérias, fungos",
+              "Ergonômicos: postura ruim, repetição, peso",
+              "De acidentes: máquinas perigosas, falta de sinalização"
+            ]
+          },
+          {
+            "title": "Por que identificar e avaliar os riscos?",
+            "list": [
+              "Previne acidentes e doenças",
+              "Garante o cumprimento das NRs",
+              "Aumenta a produtividade",
+              "Reduz custos com afastamentos e multas"
+            ]
+          },
+          {
+            "title": "Como fazer essa avaliação?",
+            "list": [
+              "1. Levantamento dos riscos no ambiente",
+              "2. Análise da probabilidade e gravidade",
+              "3. Classificação do nível de perigo",
+              "4. Controle com medidas preventivas",
+              "5. Monitoramento constante e revisões"
+            ]
+          },
+          {
+            "title": "Ferramentas que ajudam",
+            "list": [
+              "APR (Análise Preliminar de Riscos) - antes de iniciar a atividade",
+              "Mapa de riscos - visual dos perigos do local",
+              "Checklists de segurança - para identificar falhas",
+              "Inspeções regulares - para acompanhar o ambiente"
             ]
           }
         ],
-        "conclusion": ""
+        "conclusion": "Criar uma cultura de prevenção é essencial. Cada trabalhador tem um papel: identificar, comunicar e seguir os procedimentos."
       },
-      "font": ""
+      "font": "https://ddstemas.com.br/identificacao-e-avaliacao-de-riscos-a-base-da-seguranca-no-trabalho/"
     },
     {
       "id": 10,
