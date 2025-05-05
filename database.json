@@ -447,18 +447,39 @@
       "id": 8,
       "theme": "Ergonomia - Cuidados com Postura e Movimentos Repetitivos",
       "information": {
-        "intro": "",
+        "intro": "Posturas erradas e movimentos repetitivos causam dores, inflamações e até afastamentos por LER/DORT. Cuidar da ergonomia previne problemas e melhora o bem-estar e a produtividade no trabalho.",
         "topics": [
           {
-            "title": "",
+            "title": "Cuidados com a Postura",
             "list": [
-              ""
+              "Mantenha a coluna reta: Costas apoiadas e pés no chão",
+              "Alinhe o monitor: Na altura dos olhos para evitar forçar o pescoço",
+              "Ajuste a cadeira: Joelhos em 90°, braços apoiados",
+              "Mude de posição e levante-se a cada 50 minutos",
+              "Evite cruzar as pernas: Ajuda na circulação"
+            ]
+          },
+          {
+            "title": "Evite Lesões por Movimentos Repetitivos",
+            "list": [
+              "Faça pausas curtas durante o dia",
+              "Alongue-se com frequência",
+              "Use equipamentos ergonômicos: Teclado, mouse e cadeira adequados",
+              "Varie as tarefas sempre que possível"
+            ]
+          },
+          {
+            "title": "Aplicando a Ergonomia em Diferentes Locais",
+            "list": [
+              "Escritório: Móveis ajustáveis e boa iluminação",
+              "Indústria: EPIs e espaço organizado",
+              "Home office: Espaço confortável com postura correta"
             ]
           }
         ],
-        "conclusion": ""
+        "conclusion": "A ergonomia previne doenças, reduz afastamentos e melhora a qualidade de vida no trabalho. Pequenos ajustes no dia a dia fazem uma grande diferença na saúde."
       },
-      "font": ""
+      "font": "https://ddstemas.com.br/ergonomia-cuidados-com-postura-e-movimentos-repetitivos/"
     },
     {
       "id": 9,
