@@ -390,18 +390,58 @@
       "id": 7,
       "theme": "Higiene e Saúde no Trabalho - Cuidados Pessoais para Evitar Doenças",
       "information": {
-        "intro": "",
+        "intro": "Bons hábitos de higiene no dia a dia evitam doenças, reduzem afastamentos e tornam o ambiente de trabalho mais seguro, limpo e produtivo. Veja os principais cuidados pessoais:",
         "topics": [
           {
-            "title": "",
+            "title": "Lavar as Mãos",
             "list": [
-              ""
+              "Antes/depois de comer",
+              "Após ir ao banheiro",
+              "Ao tocar superfícies compartilhadas (use sabão ou álcool em gel)"
+            ]
+          },
+          {
+            "title": "Uso Correto dos EPIs",
+            "list": [
+              "Luvas, máscaras, protetores auriculares, etc.",
+              "Use sempre de forma adequada conforme a função"
+            ]
+          },
+          {
+            "title": "Higiene Pessoal",
+            "list": [
+              "Roupas limpas",
+              "Banho após o expediente (em caso de exposição química)",
+              "Não compartilhar objetos como copos ou toalhas"
+            ]
+          },
+          {
+            "title": "Alimentação e Hidratação",
+            "list": [
+              "Coma alimentos saudáveis e evite os industrializados",
+              "Beba pelo menos 2L de água por dia"
+            ]
+          },
+          {
+            "title": "Manter o Ambiente Limpo",
+            "list": [
+              "Higienizar mesas, teclados, telefones, etc.",
+              "Evitar restos de comida e lixo acumulado",
+              "Manter boa ventilação"
+            ]
+          },
+          {
+            "title": "Doenças Que Podem Ser Evitadas",
+            "list": [
+              "Resfriados e gripes",
+              "Alergias e irritações na pele",
+              "Infecções intestinais"
             ]
           }
         ],
-        "conclusion": ""
+        "conclusion": "Cuidar da higiene é um dever de todos! Pequenas atitudes diárias protegem a saúde de toda a equipe."
       },
-      "font": ""
+      "font": "https://ddstemas.com.br/higiene-e-saude-no-trabalho-cuidados-pessoais-para-evitar-doencas/"
     },
     {
       "id": 8,
