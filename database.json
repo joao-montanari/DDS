@@ -677,35 +677,107 @@
       "id": 13,
       "theme": "Combate a Incêndio",
       "information": {
-        "intro": "",
+        "intro": "O combate a incêndios é uma habilidade essencial para proteger vidas e patrimônios. Conhecer os princípios do fogo, os equipamentos e as estratégias de prevenção é fundamental para agir com segurança.",
         "topics": [
           {
-            "title": "",
+            "title": "Entendendo o Fogo - Triângulo do Fogo",
             "list": [
-              ""
+              "O fogo precisa de três elementos para existir, removendo qualquer um desses elementos o fogo se apaga:",
+              "Combustível (materiais inflamáveis como papel ou gasolina)",
+              "Oxigênio (presente no ar)",
+              "Fonte de calor (faíscas, chamas, superaquecimento)"
+            ]
+          },
+          {
+            "title": "Equipamentos de Combate a Incêndio",
+            "list": [
+              "Extintores: indicados para pequenos focos. Use com a técnica: Puxe, Aponte, Aperte, Varra.",
+              "Mangueiras: para incêndios maiores; exigem treinamento e EPI completo.",
+              "EPI (Equipamentos de Proteção Individual): capacete, luvas, botas, jaqueta antifogo, máscara."
+            ]
+          },
+          {
+            "title": "Técnicas Básicas de Extinção",
+            "list": [
+              "Use o extintor de forma segura e mantenha distância do fogo.",
+              "Com a mangueira, mire na base das chamas e mantenha a calma.",
+              "Nunca dê as costas ao fogo e sempre saiba onde estão as rotas de fuga."
+            ]
+          },
+          {
+            "title": "Prevenção: A Melhor Estratégia",
+            "list": [
+              "Alarmes e sprinklers detectam incêndios precocemente",
+              "Treinamentos de evacuação devem ser realizados regularmente",
+              "Armazene materiais inflamáveis com segurança",
+              "Faça manutenção preventiva em equipamentos e instalações elétricas"
             ]
           }
         ],
-        "conclusion": ""
+        "conclusion": "Estar preparado é tão importante quanto prevenir. O combate a incêndios começa com conhecimento, equipamento adequado e responsabilidade."
       },
-      "font": ""
+      "font": "https://ddstemas.com.br/combate-a-incendio-dds/"
     },
     {
       "id": 14,
       "theme": "Dicas de Alimentação Saudável",
       "information": {
-        "intro": "",
+        "intro": "Uma alimentação saudável previne doenças, melhora o bem-estar e pode reduzir em até 30% o risco de infarto.",
         "topics": [
           {
-            "title": "",
+            "title": "Conceitos-Chave",
             "list": [
-              ""
+              "Variedade é essencial: nenhum alimento é completo sozinho.",
+              "Quantidade também importa: até alimentos saudáveis devem ser consumidos com moderação.",
+              "Evite fast food e alimentos gordurosos."
+            ]
+          },
+          {
+            "title": "Grupo alimentar: Cereais, pães, tubérculos e raízes",
+            "list": [
+              "Fonte de energia, fibras e vitaminas.",
+              "Prefira os integrais."
+            ]
+          },
+          {
+            "title": "Grupo alimentar: Verduras, legumes e frutas",
+            "list": [
+              "Ricos em vitaminas, minerais e fibras.",
+              "Ajudam a manter o corpo funcionando bem."
+            ]
+          },
+          {
+            "title": "Grupo alimentar: Leite e derivados",
+            "list": [
+              "Fonte de cálcio e proteínas para ossos e músculos."
+            ]
+          },
+          {
+            "title": "Grupo alimentar: Carnes, ovos, leguminosas",
+            "list": [
+              "Fornecem proteínas e ferro.",
+              "Contribuem para a reconstrução dos tecidos."
+            ]
+          },
+          {
+            "title": "Grupo alimentar: Gorduras, óleos, açúcares e doces",
+            "list": [
+              "Devem ser consumidos com muita moderação por serem muito calóricos."
+            ]
+          },
+          {
+            "title": "Dicas Práticas",
+            "list": [
+              "Equilíbrio: combine diferentes grupos alimentares.",
+              "Evite ultraprocessados: possuem muitos aditivos e poucos nutrientes.",
+              "Prefira alimentos naturais, orgânicos e da estação.",
+              "Controle de porções: comer bem é diferente de comer muito."
             ]
           }
         ],
-        "conclusion": ""
+        "conclusion": "Alimentar-se bem é um ato de autocuidado. Uma alimentação balanceada previne doenças, melhora o rendimento no trabalho e na vida."
       },
-      "font": ""
+      "font": "https://ddstemas.com.br/dicas-de-alimentacao-saudavel/"
     },
     {
       "id": 15,
