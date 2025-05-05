@@ -275,18 +275,47 @@
       "id": 5,
       "theme": "Quais são os 3 maiores Vilões da Saúde Ocupacional e como se proteger deles?",
       "information": {
-        "intro": "",
+        "intro": "A saúde no trabalho é essencial para o bem-estar, a produtividade e a segurança de todos. Porém, existem três grandes inimigos que ainda afetam muito os trabalhadores:",
         "topics": [
           {
-            "title": "",
+            "title": "1. Riscos Ergonômicos - Postura e Movimentos Repetitivos",
             "list": [
-              ""
+              "Ficar muito tempo na mesma posição, levantar peso de forma errada ou fazer movimentos repetitivos causa dores, lesões e problemas na coluna.",
+              "Como se proteger: Mobiliário ajustado ao corpo (cadeiras, mesas)",
+              "Como se proteger: Pausas para alongamento",
+              "Como se proteger: Treinamentos sobre postura e ergonomia"
+            ]
+          },
+          {
+            "title": "2. Produtos Químicos - Poeiras, Gases e Substâncias Tóxicas",
+            "list": [
+              "Contato com produtos químicos pode causar intoxicações, alergias e doenças respiratórias.",
+              "Como se proteger: Uso correto de EPIs (máscaras, luvas, óculos)",
+              "Como se proteger: Armazenamento e manuseio seguros",
+              "Como se proteger: Ventilação adequada e sinalização"
+            ]
+          },
+          {
+            "title": "3. Estresse no Trabalho - Pressão e Clima Ruim",
+            "list": [
+              "Excesso de cobrança, ambiente tenso e cansaço podem gerar estresse, ansiedade e até doenças mais sérias.",
+              "Como se proteger: Pausas durante o expediente",
+              "Como se proteger: Apoio emocional e ambiente respeitoso",
+              "Como se proteger: Atividades que promovem bem-estar (ginástica laboral, meditação)"
+            ]
+          },
+          {
+            "title": "Como Prevenir?",
+            "list": [
+              "Análise de riscos em cada função",
+              "Treinamentos, exames periódicos e uso correto dos EPIs",
+              "Participação de todos na criação de um ambiente mais saudável"
             ]
           }
         ],
-        "conclusion": ""
+        "conclusion": "Os riscos ergonômicos, os produtos químicos e o estresse são os principais vilões da saúde no trabalho - mas com prevenção e atitude, é possível vencê-los. Trabalhar com saúde e segurança é um direito e uma responsabilidade de todos!"
       },
-      "font": ""
+      "font": "https://ddstemas.com.br/quais-sao-os-3-maiores-viloes-da-saude-ocupacional-e-como-se-proteger-deles/"
     },
     {
       "id": 6,
