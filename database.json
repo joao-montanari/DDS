@@ -783,18 +783,75 @@
       "id": 15,
       "theme": "Dicas Importantes para Preservar o Meio Ambiente",
       "information": {
-        "intro": "",
+        "intro": "As mudanças climáticas já são uma realidade, e cada um de nós pode contribuir com ações simples e conscientes para proteger o planeta.",
         "topics": [
           {
-            "title": "",
+            "title": "Cuidado com o lixo:",
             "list": [
-              ""
+              "Nunca jogue no chão.",
+              "Separe recicláveis e não recicláveis corretamente."
+            ]
+          },
+          {
+            "title": "Reutilize e recicle:",
+            "list": [
+              "Caixas, potes e roupas podem ter novos usos ou ser doados.",
+              "Menos lixo = menos impacto ambiental."
+            ]
+          },
+          {
+            "title": "Economize água:",
+            "list": [
+              "Aproveite a água da chuva ou da máquina de lavar.",
+              "Reduza o tempo no banho.",
+              "Não use mangueira para lavar calçadas."
+            ]
+          },
+          {
+            "title": "Proteja as árvores e florestas:",
+            "list": [
+              "Evite podas ilegais e queimadas.",
+              "Preserve áreas verdes."
+            ]
+          },
+          {
+            "title": "Cuide dos rios e lagos:",
+            "list": [
+              "Nunca descarte lixo na água.",
+              "Proteja a vegetação ao redor dos cursos d’água."
+            ]
+          },
+          {
+            "title": "Evite caça e pesca predatórias:",
+            "list": [
+              "Respeite períodos de reprodução.",
+              "Não compre animais silvestres ilegais."
+            ]
+          },
+          {
+            "title": "Reduza o consumo de energia:",
+            "list": [
+              "Apague luzes desnecessárias.",
+              "Desligue aparelhos que não estão em uso."
+            ]
+          },
+          {
+            "title": "Use menos o carro:",
+            "list": [
+              "Prefira andar a pé, de bicicleta, transporte público ou caronas."
+            ]
+          },
+          {
+            "title": "Consuma com consciência:",
+            "list": [
+              "Compre apenas o necessário.",
+              "O consumo desenfreado esgota os recursos naturais."
             ]
           }
         ],
-        "conclusion": ""
+        "conclusion": "Preservar o meio ambiente não exige grandes sacrifícios. Basta mudar hábitos simples do dia a dia para gerar um impacto positivo."
       },
-      "font": ""
+      "font": "https://ddstemas.com.br/10-dicas-importantes-para-preservar-o-meio-ambiente/"
     },
     {
       "id": 16,
