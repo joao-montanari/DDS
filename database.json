@@ -857,18 +857,72 @@
       "id": 16,
       "theme": "10 Pilares para Cuidar do Meio Ambiente em Casa",
       "information": {
-        "intro": "",
+        "intro": "Cuidar do meio ambiente começa em casa, com atitudes simples que fazem uma grande diferença. Veja 10 Pilares Essenciais:",
         "topics": [
           {
-            "title": "",
+            "title": "1. Não jogue lixo no chão",
             "list": [
-              ""
+              "Descarte sempre de forma correta."
+            ]
+          },
+          {
+            "title": "2. Nunca despeje óleo no ralo",
+            "list": [
+              "Ele contamina a água e o solo."
+            ]
+          },
+          {
+            "title": "3. Eduque as crianças",
+            "list": [
+              "Ensine desde cedo o valor da natureza."
+            ]
+          },
+          {
+            "title": "4. Doe o que não usa mais",
+            "list": [
+              "Roupas, brinquedos e livros podem ter nova utilidade."
+            ]
+          },
+          {
+            "title": "5. Seja um consumidor consciente",
+            "list": [
+              "Compre apenas o necessário e pesquise a responsabilidade ambiental das marcas."
+            ]
+          },
+          {
+            "title": "6. Evite embalagens plásticas desnecessárias",
+            "list": [
+              "Escolha produtos com refis ou embalagens reutilizáveis."
+            ]
+          },
+          {
+            "title": "7. Use sacolas ecológicas",
+            "list": [
+              "Reduza o uso de sacolas plásticas no mercado."
+            ]
+          },
+          {
+            "title": "8. Economize água",
+            "list": [
+              "Com atitudes simples, como escovar os dentes com a torneira fechada, reaproveitar água da máquina e lavar roupas em um único dia."
+            ]
+          },
+          {
+            "title": "9. Use menos o carro",
+            "list": [
+              "Prefira caminhar, andar de bicicleta ou usar transporte público."
+            ]
+          },
+          {
+            "title": "10. Aproveite a luz natural",
+            "list": [
+              "Abra janelas e cortinas para reduzir o uso de lâmpadas."
             ]
           }
         ],
-        "conclusion": ""
+        "conclusion": "Cuidar do meio ambiente não exige grandes mudanças – pequenas atitudes diárias já fazem a diferença."
       },
-      "font": ""
+      "font": "https://ddstemas.com.br/10-pilares-para-cuidar-do-meio-ambiente-em-casa/"
     },
     {
       "id": 17,
