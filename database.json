@@ -975,18 +975,28 @@
       "id": 18,
       "theme": "Proteção Auditiva",
       "information": {
-        "intro": "",
+        "intro": "A exposição constante a ruídos altos no ambiente de trabalho pode causar perda auditiva gradual e permanente.",
         "topics": [
           {
-            "title": "",
+            "title": "Por que proteger sua audição?",
             "list": [
-              ""
+              "Nascemos com cerca de 40 mil cílios auditivos internos, essenciais para ouvir.",
+              "Esses cílios podem ser danificados por: Envelhecimento, Infecções e Ruídos fortes e prolongados sem proteção",
+              "A perda auditiva pode afetar sua qualidade de vida: Dificuldade para ouvir conversas, música, TV e sons do dia a dia",
+              "Também compromete a segurança no trabalho: Você pode não ouvir alarmes, avisos e instruções importantes"
+            ]
+          },
+          {
+            "title": "Como prevenir?",
+            "list": [
+              "A única forma eficaz de proteger sua audição no trabalho é usar protetores auditivos corretamente.",
+              "O uso regular e adequado dos protetores evita danos irreversíveis à audição."
             ]
           }
         ],
-        "conclusion": ""
+        "conclusion": "Use protetor auditivo sempre que necessário. Ouvir bem é viver melhor - no trabalho e fora dele."
       },
-      "font": ""
+      "font": "https://ddstemas.com.br/protecao-auditiva/"
     },
     {
       "id": 19,
