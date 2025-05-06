@@ -920,7 +920,7 @@
             ]
           }
         ],
-        "conclusion": "Cuidar do meio ambiente não exige grandes mudanças – pequenas atitudes diárias já fazem a diferença."
+        "conclusion": "Cuidar do meio ambiente não exige grandes mudanças - pequenas atitudes diárias já fazem a diferença."
       },
       "font": "https://ddstemas.com.br/10-pilares-para-cuidar-do-meio-ambiente-em-casa/"
     },
@@ -928,18 +928,48 @@
       "id": 17,
       "theme": "O que é Alimentação Saudável?",
       "information": {
-        "intro": "",
+        "intro": "A alimentação saudável vai além dos nutrientes: ela respeita aspectos culturais, sociais e emocionais, promovendo saúde, bem-estar e qualidade de vida.",
         "topics": [
           {
-            "title": "",
+            "title": "Características de uma Alimentação Saudável",
             "list": [
-              ""
+              "1. Culturalmente respeitosa - Valoriza os alimentos típicos e regionais, como mandioca, frutas e legumes da estação.",
+              "2. Acessível e saborosa - Baseada em alimentos naturais e locais, que não precisam ser caros.",
+              "3. Variada - Diferentes grupos alimentares garantem todos os nutrientes necessários.",
+              "4. Colorida - Pratos com diversas cores indicam variedade de vitaminas e minerais.",
+              "5. Harmoniosa - Quantidade e qualidade equilibradas, respeitando os hábitos e preferências.",
+              "6. Segura - Alimentos devem estar livres de contaminações físicas, químicas ou biológicas."
+            ]
+          },
+          {
+            "title": "Dicas práticas de alimentação saudável",
+            "list": [
+              "Faça 3 refeições principais e 2 lanches saudáveis por dia.",
+              "Consuma 6 porções de cereais/tubérculos (preferencialmente integrais) diariamente.",
+              "Coma pelo menos 3 porções de legumes e verduras + 3 frutas por dia.",
+              "Inclua feijão com arroz no prato diariamente ou, no mínimo, 5 vezes por semana.",
+              "Coma leite e derivados (3 porções) e carnes/ovos/peixes (1 porção) por dia.",
+              "Evite alimentos ultraprocessados, refrigerantes, bolos e guloseimas.",
+              "Reduza o consumo de sal e gorduras.",
+              "Beba 2 litros de água por dia, de preferência fora das refeições.",
+              "Pratique 30 minutos de atividade física diariamente.",
+              "Evite álcool e fumo e mantenha o peso adequado."
+            ]
+          },
+          {
+            "title": "IMC (Índice de Massa Corporal)",
+            "list": [
+              "Para saber se seu peso está adequado, use a fórmula: IMC = Peso (kg) / Altura² (m)",
+              "Abaixo de 18,5 → Baixo peso",
+              "18,5 a 24,9 → Peso adequado",
+              "25 a 29,9 → Sobrepeso",
+              "Acima de 30 → Obesidade"
             ]
           }
         ],
-        "conclusion": ""
+        "conclusion": "Comer bem é um ato de cuidado com o corpo e com a cultura. Pequenas escolhas conscientes, feitas todos os dias, fazem a diferença para a saúde e o bem-estar."
       },
-      "font": ""
+      "font": "https://ddstemas.com.br/o-que-e-alimentacao-saudavel/"
     },
     {
       "id": 18,
