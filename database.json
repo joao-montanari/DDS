@@ -1002,18 +1002,37 @@
       "id": 19,
       "theme": "Limpeza e Organização do Local de Trabalho",
       "information": {
-        "intro": "",
+        "intro": "A falta de limpeza e organização no local de trabalho é uma das principais causas de acidentes, como escorregões, quedas e tropeços.",
         "topics": [
           {
-            "title": "",
+            "title": "Por que manter o ambiente limpo e organizado?",
             "list": [
-              ""
+              "Lixo acumulado (restos de materiais, embalagens, gesso, etc.) aumenta riscos.",
+              "Reduz a qualidade do trabalho e atrapalha a produtividade.",
+              "Esconde perigos como: fiações expostas, pregos soltos, pisos danificados e ferramentas mal armazenadas",
+              "Dificulta o uso de equipamentos, gerando mais esforço manual e maior risco de lesões."
+            ]
+          },
+          {
+            "title": "Boas práticas de limpeza e organização",
+            "list": [
+              "Limpe conforme o trabalho avança.",
+              "Mantenha áreas de passagem e escadas sempre livres.",
+              "Jogue o lixo em recipientes apropriados e esvazie-os com frequência.",
+              "Guarde ferramentas e materiais após o uso.",
+              "Proteja e fixe materiais leves ou soltos.",
+              "Não jogue materiais de um nível para outro — use calhas ou recipientes.",
+              "Armazene materiais a pelo menos 1,8m de aberturas e longe de redes elétricas.",
+              "Remova ou dobre pregos de madeiras usadas.",
+              "Mantenha materiais inflamáveis longe de fontes de calor.",
+              "Coloque sinalizações de alerta em áreas perigosas.",
+              "Use EPIs adequados, como proteção para os olhos."
             ]
           }
         ],
-        "conclusion": ""
+        "conclusion": "Ambientes organizados e limpos evitam acidentes e facilitam o trabalho. Reforce com a equipe a importância da limpeza diária, indique onde estão os cestos e, se necessário, atribua responsabilidades para manter o espaço seguro para todos."
       },
-      "font": ""
+      "font": "https://ddstemas.com.br/limpeza-e-organizacao-do-local-de-trabalho-dds/"
     }
   ]
 }
