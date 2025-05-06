@@ -2,7 +2,7 @@
   "themes": [
     {
       "id": 0,
-      "theme": "Como evitar acidentes e armazenar com segurança os Produtos Químicos",
+      "theme": "🧪 Como evitar acidentes e armazenar com segurança os produtos químicos",
       "information": {
         "intro": "O uso de produtos químicos faz parte da rotina de muitos trabalhadores em fábricas, hospitais, laboratórios e setores de limpeza. Apesar de comuns, essas substâncias representam riscos sérios se forem manuseadas de forma incorreta.",
         "topics": [
@@ -60,7 +60,7 @@
     },
     {
       "id": 1,
-      "theme": "Como evitar os riscos do cansaço e estresse no trabalho",
+      "theme": "🔋 Como evitar os riscos do cansaço e estresse no trabalho",
       "information": {
         "intro": "Segurança no trabalho vai além do uso de EPIs e normas. Cansaço e estresse também são riscos que afetam a atenção, os reflexos e a saúde física e mental dos trabalhadores.",
         "topics": [
@@ -127,7 +127,7 @@
     },
     {
       "id": 2,
-      "theme": "A Importância da Segurança do Trabalho na Proteção dos Trabalhadores",
+      "theme": "⛑️ A Importância da Segurança do Trabalho na Proteção dos Trabalhadores",
       "information": {
         "intro": "A segurança do trabalho é um conjunto de práticas e normas voltadas à proteção da saúde e integridade física dos trabalhadores. Mais do que uma obrigação legal, é uma responsabilidade essencial das empresas que valorizam seus colaboradores.",
         "topics": [
@@ -172,7 +172,7 @@
     },
     {
       "id": 3,
-      "theme": "Trabalho em Risco: o que observar?",
+      "theme": "👀 Trabalho em Risco: o que observar?",
       "information": {
         "intro": "Nem sempre os perigos são visíveis ou óbvios. Situações que parecem normais podem esconder riscos sérios. Reconhecer e corrigir essas condições é essencial para evitar acidentes e garantir a segurança de todos.",
         "topics": [
@@ -219,7 +219,7 @@
     },
     {
       "id": 4,
-      "theme": "Direção defensiva para motoristas e operadores de veículos",
+      "theme": "🚗 Direção defensiva para motoristas e operadores de veículos",
       "information": {
         "intro": "Acidentes de trânsito estão entre as principais causas de mortes no ambiente de trabalho. Dirigir com atenção e responsabilidade é essencial para proteger vidas, veículos e manter a produtividade.",
         "topics": [
@@ -273,7 +273,7 @@
     },
     {
       "id": 5,
-      "theme": "Quais são os 3 maiores Vilões da Saúde Ocupacional e como se proteger deles?",
+      "theme": "👿 Quais são os 3 maiores Vilões da Saúde Ocupacional e como se proteger deles?",
       "information": {
         "intro": "A saúde no trabalho é essencial para o bem-estar, a produtividade e a segurança de todos. Porém, existem três grandes inimigos que ainda afetam muito os trabalhadores:",
         "topics": [
@@ -319,7 +319,7 @@
     },
     {
       "id": 6,
-      "theme": "Primeiros Socorros - Como agir em emergências no trabalho?",
+      "theme": "🚑 Primeiros Socorros - Como agir em emergências no trabalho?",
       "information": {
         "intro": "Acidentes e emergências podem acontecer a qualquer momento no ambiente de trabalho. Saber agir rapidamente pode evitar complicações e até salvar vidas. Os primeiros socorros são os cuidados iniciais até a chegada da equipe médica.",
         "topics": [
@@ -388,7 +388,7 @@
     },
     {
       "id": 7,
-      "theme": "Higiene e Saúde no Trabalho - Cuidados Pessoais para Evitar Doenças",
+      "theme": "🧻 Higiene e Saúde no Trabalho - Cuidados Pessoais para Evitar Doenças",
       "information": {
         "intro": "Bons hábitos de higiene no dia a dia evitam doenças, reduzem afastamentos e tornam o ambiente de trabalho mais seguro, limpo e produtivo. Veja os principais cuidados pessoais:",
         "topics": [
@@ -445,7 +445,7 @@
     },
     {
       "id": 8,
-      "theme": "Ergonomia - Cuidados com Postura e Movimentos Repetitivos",
+      "theme": "👨‍🦼‍➡️ Ergonomia - Cuidados com Postura e Movimentos Repetitivos",
       "information": {
         "intro": "Posturas erradas e movimentos repetitivos causam dores, inflamações e até afastamentos por LER/DORT. Cuidar da ergonomia previne problemas e melhora o bem-estar e a produtividade no trabalho.",
         "topics": [
@@ -483,7 +483,7 @@
     },
     {
       "id": 9,
-      "theme": "Identificação e Avaliação de Riscos: A Base da Segurança no Trabalho",
+      "theme": "🦺 Identificação e Avaliação de Riscos: A Base da Segurança no Trabalho",
       "information": {
         "intro": "Riscos ocupacionais são situações no ambiente de trabalho que podem causar acidentes, doenças ou danos à saúde.",
         "topics": [
@@ -532,7 +532,7 @@
     },
     {
       "id": 10,
-      "theme": "A Importância da Reciclagem do Lixo: Promovendo um Futuro Sustentável",
+      "theme": "♻️ A Importância da Reciclagem do Lixo: Promovendo um Futuro Sustentável",
       "information": {
         "intro": "Reciclar é mais do que uma boa ação - é essencial para preservar o meio ambiente e garantir um futuro sustentável. Trata-se de transformar materiais descartados (papel, plástico, vidro, metal) em novos produtos, reduzindo a poluição e o desperdício.",
         "topics": [
@@ -584,7 +584,7 @@
     },
     {
       "id": 11,
-      "theme": "Sustentabilidade: Desbravando o Caminho para um Futuro Mais Verde e Equilibrado",
+      "theme": "🌲 Sustentabilidade: Desbravando o Caminho para um Futuro Mais Verde e Equilibrado",
       "information": {
         "intro": "É o equilíbrio entre o crescimento econômico, a preservação ambiental e a justiça social. Seu objetivo é garantir o bem-estar da geração atual sem comprometer as futuras.",
         "topics": [
@@ -636,7 +636,7 @@
     },
     {
       "id": 12,
-      "theme": "Coleta Seletiva de Lixo: 11 Pontos Importantes da Preservação Ambiental",
+      "theme": "🗑️ Coleta Seletiva de Lixo: 11 Pontos Importantes da Preservação Ambiental",
       "information": {
         "intro": "O que é a Coleta Seletiva? É a separação dos resíduos em orgânicos e inorgânicos para facilitar o reaproveitamento e a reciclagem.",
         "topics": [
@@ -675,7 +675,7 @@
     },
     {
       "id": 13,
-      "theme": "Combate a Incêndio",
+      "theme": "🧑‍🚒 Combate a Incêndio",
       "information": {
         "intro": "O combate a incêndios é uma habilidade essencial para proteger vidas e patrimônios. Conhecer os princípios do fogo, os equipamentos e as estratégias de prevenção é fundamental para agir com segurança.",
         "topics": [
@@ -720,7 +720,7 @@
     },
     {
       "id": 14,
-      "theme": "Dicas de Alimentação Saudável",
+      "theme": "🥑 Dicas de Alimentação Saudável",
       "information": {
         "intro": "Uma alimentação saudável previne doenças, melhora o bem-estar e pode reduzir em até 30% o risco de infarto.",
         "topics": [
@@ -781,7 +781,7 @@
     },
     {
       "id": 15,
-      "theme": "Dicas Importantes para Preservar o Meio Ambiente",
+      "theme": "🐋 Dicas Importantes para Preservar o Meio Ambiente",
       "information": {
         "intro": "As mudanças climáticas já são uma realidade, e cada um de nós pode contribuir com ações simples e conscientes para proteger o planeta.",
         "topics": [
@@ -855,7 +855,7 @@
     },
     {
       "id": 16,
-      "theme": "10 Pilares para Cuidar do Meio Ambiente em Casa",
+      "theme": "🏠 10 Pilares para Cuidar do Meio Ambiente em Casa",
       "information": {
         "intro": "Cuidar do meio ambiente começa em casa, com atitudes simples que fazem uma grande diferença. Veja 10 Pilares Essenciais:",
         "topics": [
@@ -926,7 +926,7 @@
     },
     {
       "id": 17,
-      "theme": "O que é Alimentação Saudável?",
+      "theme": "🍉 O que é Alimentação Saudável?",
       "information": {
         "intro": "A alimentação saudável vai além dos nutrientes: ela respeita aspectos culturais, sociais e emocionais, promovendo saúde, bem-estar e qualidade de vida.",
         "topics": [
@@ -973,7 +973,7 @@
     },
     {
       "id": 18,
-      "theme": "Proteção Auditiva",
+      "theme": "👂 Proteção Auditiva",
       "information": {
         "intro": "A exposição constante a ruídos altos no ambiente de trabalho pode causar perda auditiva gradual e permanente.",
         "topics": [
@@ -1000,7 +1000,7 @@
     },
     {
       "id": 19,
-      "theme": "Limpeza e Organização do Local de Trabalho",
+      "theme": "🧼 Limpeza e Organização do Local de Trabalho",
       "information": {
         "intro": "A falta de limpeza e organização no local de trabalho é uma das principais causas de acidentes, como escorregões, quedas e tropeços.",
         "topics": [
